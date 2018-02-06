@@ -7,10 +7,10 @@
 
 ## Open Source Reinforcement Learning Platforms
 - [OpenAI gym](https://github.com/openai/gym): RL környezetek
-- [OpenAI universe](https://github.com/openai/universe) - (ha jól értem?) ez egy general artificial intelligence Gym környezet
+- [OpenAI universe](https://github.com/openai/universe) - ez egy general artificial intelligence Gym környezet
 - [OpenAI lab](https://github.com/kengz/openai_lab) - tudományos kísérleti könyezet, OpenAI Gym, Tensorflow, and Keras.
 - [DeepMind Lab](https://github.com/deepmind/lab): 3D-s környezetek
-- [TensorForce](https://github.com/reinforceio/tensorforce) - ez *A* tensorflow RL környvtár OpenAI Gym/Universe/DeepMind Lab integrációval(?)
+- [TensorForce](https://github.com/reinforceio/tensorforce) - ez *A* tensorflow-s RL környvtár OpenAI Gym/Universe/DeepMind Lab integrációval(?)
 - [TensorLayer](https://github.com/tensorlayer/tensorlayer) - általánosabb tf könyvtár, amiben vannak RL algók is
 - [Project Malmo](https://github.com/Microsoft/malmo) - Minecraft környezet (Microsoft)
 - [ViZDoom](https://github.com/Marqt/ViZDoom) - Doom környezet, ami csak a képernyő alapján tanul
@@ -20,8 +20,8 @@
 - [UETorch](https://github.com/facebook/UETorch) -  környezet Unreal Engine motorhoz beépített Lua/Torch támogatás (Facebook)
 - [TorchCraft](https://github.com/TorchCraft/TorchCraft) - StarCraft környezet Torch-hoz
 - [rllab](https://github.com/openai/rllab) - RL algoritmusok (Berkeley/OpenAI)
-- [keras-rl](https://github.com/matthiasplappert/keras-rl) - SRL algók Keras-ban
-- [BURLAP](http://burlap.cs.brown.edu) - algók java-ban
+- [keras-rl](https://github.com/matthiasplappert/keras-rl) - RL algók Keras-ban
+- [BURLAP](http://burlap.cs.brown.edu) - RL algók java-ban
 - [MAgent](https://github.com/geek-ai/MAgent) - many-agent platform 
 - [Ray RLlib](http://ray.readthedocs.io/en/latest/rllib.html) - Scalable RL lib
 - [PyGame](https://github.com/ntasfi/PyGame-Learning-Environment) - különféle pythonos játékokhoz környezet (pl. flappy bird)
